@@ -1,0 +1,19 @@
+body{
+    background-color: rgb(138, 143, 143);
+    padding: 0;
+    margin: 0;
+}
+
+header{
+    display: flex;
+    justify-content: space-between;
+    padding: 20px;
+    font-size: 1.2em;
+    background-color: rgb(71, 52, 52);
+    height: 5vh;
+}
+header div a {
+    padding: 0 20px 0 20px;
+   text-decoration: none;
+   color: white;
+}
